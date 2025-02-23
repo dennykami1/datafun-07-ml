@@ -1,0 +1,7 @@
+jupyterlab   # Interactive development environment for notebooks, code, and data
+numpy        # Fundamental package for numerical computations and array operations
+pandas       # Data manipulation and analysis library with DataFrame support
+pyarrow      # Cross-language platform for in-memory columnar data and efficient data interchange
+matplotlib   # Comprehensive library for creating static, animated, and interactive visualizations
+seaborn      # Statistical data visualization library built on top of Matplotlib
+scipy        # Library for scientific and technical computing, building on NumPy
